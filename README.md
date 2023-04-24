@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Wes</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey, I'm Wes</h1>
+<h3 align="center">A software developer with a background</h3>
 
 - 📫 How to reach me **WesleyJohansonZero@gmail.com**
 
