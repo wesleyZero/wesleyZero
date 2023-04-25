@@ -28,7 +28,7 @@ I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Gradua
 
 
 ### About Me  
-- 👨‍🔬 Currently working on TITLE(google.com)
+- 👨‍🔬 Currently working on [TITLE](google.com)
   
 
 - 🤓 Full-Time Nerd  
