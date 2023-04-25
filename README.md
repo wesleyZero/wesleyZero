@@ -37,7 +37,7 @@ I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Gradua
 - 🏃‍♂️ Long Distance Runner  
   
 
-- 🏕️ Outdoor Enthusiast  
+- 🏕️ Experienced Backpacker & Outdoor Enthusiast  
 
 
 </td><td valign="top" width="50%">
