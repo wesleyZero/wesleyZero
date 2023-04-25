@@ -86,4 +86,4 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
