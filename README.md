@@ -1,5 +1,5 @@
 ## <div align="center">👽 Hello there 🖖
-I'm Wesley. I'm a python developer. Currently exploring in the direction of AR, VR, AI, and Computer Vision. I love grabbing a cup of yerba matte loose leave tea and learning something new every day. 🍵</div>  
+I'm Wesley. I'm an aspiring python developer. Currently exploring in the direction of AR, VR, AI, and Computer Vision. I love grabbing a cup of yerba matte loose leave tea and learning something new every day. 🍵</div>  
   
 
 <div align="center">
@@ -18,7 +18,7 @@ I'm Wesley. I'm a python developer. Currently exploring in the direction of AR, 
 
 
 ### Thanks for visiting 🛸  
-I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Graduating June 2024.   
+I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Graduating June 2024. Looking to start a career in software engineering as a python developer. This is my [resume](https://github.com/wesleyZero/wesleyZero/blob/main/JohansonWesley_ResumeV3.pdf)
   
 
 <br/>  
