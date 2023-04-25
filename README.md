@@ -45,7 +45,7 @@ I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Gradua
 <img src="https://raw.githubusercontent.com/wesleyZero/wesleyZero/main/series04_preprocessing_automated_04_keypoints.gif" align="left" style="width: 100%" />  
   
 
-Generated video that tracks (red dot) an Organoid in 3D space using data that I measured in laboratory.   
+Generated video that tracks (red dot) an Organoid in 3D space using data that I measured in laboratory. Written in python.  
 
 
 </td></tr></table>  
