@@ -28,7 +28,7 @@ DESCRIPTION_HERE
 
 
 ### About Me  
-- 👨‍🔬 WORKING ON____________  
+- 👨‍🔬 WORKING_ON  
   
 
 - 🌱 I’m currently learning ML, Data Science, and Computer Vision  
@@ -82,31 +82,7 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
+</td></tr></table>
 <br />
 
 ----
