@@ -1,5 +1,5 @@
 ## <div align="center">👽 Hello there 🖖
-I'm Wesley. I'm a python developer with a background in Chemical Engineering.</div>  
+I'm Wesley. I'm a python developer. Currently exploring in the direction of AR, VR, AI, and Computer Vision.</div>  
   
 
 <div align="center">
@@ -18,7 +18,7 @@ I'm Wesley. I'm a python developer with a background in Chemical Engineering.</d
 
 
 ### Thanks for visiting 🛸  
-DESCRIPTION_HERE  
+I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Graduating June 2024.   
   
 
 <br/>  
@@ -29,9 +29,6 @@ DESCRIPTION_HERE
 
 ### About Me  
 - 👨‍🔬 WORKING_ON  
-  
-
-- 🌱 I’m currently learning ML, Data Science, and Computer Vision  
   
 
 - 🤓 Full-Time Nerd  
@@ -86,4 +83,3 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 <br />
 
 ----
-
