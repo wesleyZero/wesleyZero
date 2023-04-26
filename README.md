@@ -28,9 +28,6 @@ I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Gradua
 
 
 ### About Me  
-- 👨‍🔬 Currently working on [TITLE](https://www.google.com/)
-  
-
 - 🤓 Full-Time Nerd  
   
 
@@ -55,7 +52,7 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 ## Table of Contents
 
 #### UCSB MRL
-- [Radial Expansion Velocity]()
+- [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL)
 
 #### 42 Silicon Valley Coding School
 
