@@ -51,6 +51,8 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 
 ## Table of Contents
 
+### Projects
+
 #### UCSB MRL
 - [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL)
 
@@ -59,6 +61,8 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 - [Fillit](https://github.com/wesleyZero/fillit_42SiliconValley) - A tetris-like project
 - [GetNextLine](https://github.com/wesleyZero/Get_Next_Line_42SiliconValley)
 - [Std C Library](https://github.com/wesleyZero/Std_C_Library_42SiliconValley)
+
+### Plotting in Python & Mathematica 
 
 #### UCSB Chemical Engineering Classes
 
