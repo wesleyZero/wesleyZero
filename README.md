@@ -52,6 +52,22 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 
 <br/>  
 
+## Table of Contents
+
+#### UCSB MRL
+- [Radial Expansion Velocity]()
+
+#### 42 Silicon Valley Coding School
+
+- [Fillit](https://github.com/wesleyZero/fillit_42SiliconValley) - A tetris-like project
+- [GetNextLine](https://github.com/wesleyZero/Get_Next_Line_42SiliconValley)
+- [Std C Library](https://github.com/wesleyZero/Std_C_Library_42SiliconValley)
+
+#### UCSB Chemical Engineering Classes
+
+- ChE 180A | [Friction Factors Lab](https://github.com/wesleyZero/FrictionFactors_UCSB-ChE)
+- ChE 180A | [Z-Factor Compressibility Factor Lab](https://github.com/wesleyZero/Z_Factors_UCSB-ChE)
+- ChE 132A | [Golden Ratio Spiral](https://github.com/wesleyZero/GoldenRatio_Mathematica_UCSB-ChE)
 
 ## Languages and Tools  
 <table><tr><td valign="top" width="50%">
