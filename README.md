@@ -39,8 +39,10 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 <br/>  
 
 ## Projects
+#### Personal
+- [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net/blob/main/README.md) (⏳ Currently working on this...)
 #### UCSB MRL
-- [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL) (🚧 Repo Under Construction 🔨)
+- [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL) (🚧 Readme under construction 🔨)
 #### 42 Silicon Valley Coding School
 - [Fillit](https://github.com/wesleyZero/fillit_42SiliconValley) - A tetris-like project
 - [GetNextLine](https://github.com/wesleyZero/Get_Next_Line_42SiliconValley)
@@ -53,7 +55,8 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 
 ## Languages and Tools  
 <table><tr><td valign="top" width="50%">
-### Languages  
+
+  ### Languages  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
