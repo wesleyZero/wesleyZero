@@ -39,7 +39,7 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 <br/>  
 
 ## Projects
-#### Personal
+#### Personal | AI
 - [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net) (⏳ Currently working on this...)
 #### UCSB MRL
 - [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL) (🚧 Readme under construction 🔨)
