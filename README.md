@@ -1,5 +1,5 @@
 ## <div align="center">👽 Hello there 🖖
-I'm Wesley. I'm an aspiring python developer. Currently exploring in the direction of AR, VR, AI, and Computer Vision. I love grabbing a cup of yerba matte loose leave tea and learning something new every day. 🍵</div>  
+I'm Wesley. I'm an aspiring python developer. Currently exploring in the direction of AI and Computer Vision. 🍵</div>  
   
 
 <div align="center">
