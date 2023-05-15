@@ -41,7 +41,7 @@ Generated video that tracks (red dot) an Organoid in 3D space using data that I 
 ## Projects
 #### Personal | AI
 - [TensorFlow Neural Net](https://github.com/wesleyZero/tensorflow_neural_net) (⏳ Currently working on this...)
-- [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net) (⏳ Currently working on this...)
+- [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net) (🚧 Readme under construction 🔨)
 #### Hackathons
 - [UC Santa Barbara Hacks IX | Cheat Checker](https://github.com/wesleyZero/ucsb_hacks_ix)
 
