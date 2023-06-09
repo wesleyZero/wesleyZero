@@ -18,7 +18,7 @@ I'm Wesley. I'm an aspiring python developer. Currently exploring AI and Compute
 
 
 ### Thanks for visiting 🛸  
-I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Graduating June 2024. Looking to start a career in software engineering as a python developer. This is my [resume](https://github.com/wesleyZero/wesleyZero/blob/main/JohansonWesley_ResumeV3.pdf)
+I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Graduating June 2024. Looking to start a career in software engineering as a python developer. This is my [resume](https://github.com/wesleyZero/wesleyZero/blob/main/Resume_WesleyJohanson_June8_2023.pdf)
   
 
 <br/>  
