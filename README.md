@@ -1,5 +1,5 @@
 ## <div align="center">👽 Hello there 🖖
-I'm Wesley. I'm an aspiring python developer. Currently exploring AI and Computer Vision. 🍵</div>  
+I'm Wesley. I'm an aspiring python developer.</div>  
   
 
 <div align="center">
@@ -18,7 +18,6 @@ I'm Wesley. I'm an aspiring python developer. Currently exploring AI and Compute
 
 
 ### Thanks for visiting 🛸  
-I'm an undergraduate student at UC Santa Barbara in Chemical Engineering. Looking to start a career in software engineering as a python developer. 
 
 <br/>  
 <table><tr><td valign="top" width="50%">
