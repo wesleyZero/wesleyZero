@@ -30,25 +30,26 @@ I'm Wesley. I'm an aspiring python developer.</div>
   
 - 🏕️ Experienced Backpacker & Outdoor Enthusiast  
   
-</td><td valign="top" width="50%">
-<img src="https://raw.githubusercontent.com/wesleyZero/wesleyZero/main/series04_preprocessing_automated_04_keypoints.gif" align="left" style="width: 100%" />  
-Generated video that tracks (red dot) an Organoid in 3D space using data that I measured in laboratory. Written in python.  
-</td></tr></table>  
-<br/>  
-
 ## Projects
+
+#### Capstone Projects | Chemical Engineering at UC Santa Barbara 
+ - [Capstone II](https://github.com/wesleyZero/capstone_II/tree/main) (⏳ Currently working on this readme...)
+
 #### Personal | AI
-- [TensorFlow Neural Net](https://github.com/wesleyZero/tensorflow_neural_net) (⏳ Currently working on this...)
-- [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net) (🚧 Readme under construction 🔨)
+- [TensorFlow Neural Net](https://github.com/wesleyZero/tensorflow_neural_net) 
+- [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net)
+
 #### Hackathons
 - [UC Santa Barbara Hacks IX | Cheat Checker](https://github.com/wesleyZero/ucsb_hacks_ix)
 
 #### UCSB MRL
-- [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL) (🚧 Readme under construction 🔨)
+- [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL)
+
 #### 42 Silicon Valley Coding School
 - [Fillit](https://github.com/wesleyZero/fillit_42SiliconValley) - A tetris-like project
 - [GetNextLine](https://github.com/wesleyZero/Get_Next_Line_42SiliconValley)
 - [Std C Library](https://github.com/wesleyZero/Std_C_Library_42SiliconValley)
+
 ## Plotting in Python & Mathematica 
 #### UCSB Chemical Engineering Classes
 - ChE 180A | [Friction Factors Lab](https://github.com/wesleyZero/FrictionFactors_UCSB-ChE)
