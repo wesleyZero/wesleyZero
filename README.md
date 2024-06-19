@@ -1,5 +1,5 @@
 ## <div align="center">👽 Hello there 🖖
-I'm Wesley. I'm an aspiring python developer.</div>  
+I'm Wesley.</div>  
   
 
 <div align="center">
