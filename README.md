@@ -5,10 +5,6 @@ I'm Wesley. I'm a chemical engineer that would love to get into software develop
 <a href="https://linkedin.com/in/wesleyZero" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/WesleyZero" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>  
 
 
 
