@@ -7,16 +7,8 @@ I'm Wesley. I'm a chemical engineer that would love to get into software develop
 </a>
 
 
-
-  
-
-
-
 ### Thanks for visiting 🛸  
 
-<br/>  
-<table><tr><td valign="top" width="50%">
- 
 ### About Me  
   
 - 🤓 Full-Time Nerd  
@@ -28,17 +20,18 @@ I'm Wesley. I'm a chemical engineer that would love to get into software develop
 ## Projects
 
 #### Capstone Projects | Chemical Engineering at UC Santa Barbara 
- - [Capstone II](https://github.com/wesleyZero/capstone_II/tree/main) (⏳ Currently working on this readme...)
+ - [Capstone II](https://github.com/wesleyZero/capstone_II/tree/main)
+ - [Capstone I](https://github.com/wesleyZero/ChE_Capstone/blob/newBranch/README.md)
 
 #### Personal | AI
-- [TensorFlow Neural Net](https://github.com/wesleyZero/tensorflow_neural_net) 
-- [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net)
+- [TensorFlow Neural Net](https://github.com/wesleyZero/tensorflow_neural_net) (🚧Readme Under Construction👷‍♂️)
+- [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net)(🚧Readme Under Construction👷‍♂️)
 
 #### Hackathons
 - [UC Santa Barbara Hacks IX | Cheat Checker](https://github.com/wesleyZero/ucsb_hacks_ix)
 
 #### UCSB MRL
-- [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL)
+- [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL) (🚧Readme Under Construction👷‍♂️)
 
 #### 42 Silicon Valley Coding School
 - [Fillit](https://github.com/wesleyZero/fillit_42SiliconValley) - A tetris-like project
