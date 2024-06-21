@@ -1,5 +1,5 @@
 ## <div align="center"> 👽 Hello 🖖
-I'm Wesley. I'm a chemical engineer that would love to get into software development. 
+I'm Wesley. I'm a chemical engineer that loves to code. 
 
 
 
