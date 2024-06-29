@@ -1,10 +1,5 @@
-## <div align="center"> 👽 Hello 🖖
+## <div align="center"> 👽 Hello 
 I'm Wesley. I'm a chemical engineer that loves to code. 
-
-
-
-
-### Thanks for visiting 🛸  
 
 ### About Me  
   
