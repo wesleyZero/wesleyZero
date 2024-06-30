@@ -11,7 +11,7 @@ I'm Wesley. I'm a chemical engineer that loves to code.
   
 ## Projects
 
-#### iOS Apps
+#### iOS Apps 📱
  - [Tutorials I've Done]() (Coming soon!)
 
 #### Capstone Projects | Chemical Engineering at UC Santa Barbara 
