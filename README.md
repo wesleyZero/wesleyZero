@@ -11,6 +11,9 @@ I'm Wesley. I'm a chemical engineer that loves to code.
   
 ## Projects
 
+#### iOS Apps
+ - [Tutorials I've Done]() (Coming soon!)
+
 #### Capstone Projects | Chemical Engineering at UC Santa Barbara 
  - [Capstone II](https://github.com/wesleyZero/capstone_II/tree/main)
  - [Capstone I](https://github.com/wesleyZero/ChE_Capstone/blob/newBranch/README.md)
