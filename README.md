@@ -12,7 +12,7 @@ I'm Wesley. I'm a chemical engineer that loves to code.
 ## Projects
 
 #### iOS Apps 📱
- - [Tutorials I've Done]() (Coming soon!)
+ - [Tutorials I've Done]() (Coming soon!) 
 
 #### Capstone Projects | Chemical Engineering at UC Santa Barbara 
  - [Capstone II](https://github.com/wesleyZero/capstone_II/tree/main)
@@ -29,13 +29,13 @@ I'm Wesley. I'm a chemical engineer that loves to code.
 - [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL) (🚧Readme Under Construction👷‍♂️)
 
 #### 42 Silicon Valley Coding School
-- [Fillit](https://github.com/wesleyZero/fillit_42SiliconValley) - A tetris-like project
-- [GetNextLine](https://github.com/wesleyZero/Get_Next_Line_42SiliconValley)
-- [Std C Library](https://github.com/wesleyZero/Std_C_Library_42SiliconValley)
+- [Fillit](https://github.com/wesleyZero/fillit_42SiliconValley) - A tetris-like project <img src="./icons/C.svg" width="20">  
+- [GetNextLine](https://github.com/wesleyZero/Get_Next_Line_42SiliconValley) <img src="./icons/C.svg" width="20">  
+- [Std C Library](https://github.com/wesleyZero/Std_C_Library_42SiliconValley) <img src="./icons/C.svg" width="20">  
 
 ## Plotting in Python & Mathematica 
 #### UCSB Chemical Engineering Classes
-- ChE 180A | [Friction Factors Lab](https://github.com/wesleyZero/FrictionFactors_UCSB-ChE)
+- ChE 180A | [Friction Factors Lab](https://github.com/wesleyZero/FrictionFactors_UCSB-ChE) <img src="./icons/Python-Light.svg" width="20">
 - ChE 180A | [Z-Factor Compressibility Factor Lab](https://github.com/wesleyZero/Z_Factors_UCSB-ChE)
 - ChE 132A | [Golden Ratio Spiral](https://github.com/wesleyZero/GoldenRatio_Mathematica_UCSB-ChE)
 
