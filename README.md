@@ -35,8 +35,8 @@ I'm Wesley. I'm a chemical engineer that loves to code.
 
 ## Plotting in Python & Mathematica 
 #### UCSB Chemical Engineering Classes
-- ChE 180A | [Friction Factors Lab](https://github.com/wesleyZero/FrictionFactors_UCSB-ChE) <img src="./icons/Python-Dark.svg" width="20">
-- ChE 180A | [Z-Factor Compressibility Factor Lab](https://github.com/wesleyZero/Z_Factors_UCSB-ChE) <img src="./icons/Python-Dark.svg" width="20">
+- ChE 180A | [Friction Factors Lab](https://github.com/wesleyZero/FrictionFactors_UCSB-ChE) <img src="./icons/Python-Dark.svg" width="20"> <img src="./icons/LaTeX-Dark.svg" width="20">
+- ChE 180A | [Z-Factor Compressibility Factor Lab](https://github.com/wesleyZero/Z_Factors_UCSB-ChE) <img src="./icons/Python-Dark.svg" width="20"> <img src="./icons/LaTeX-Dark.svg" width="20">
 - ChE 132A | [Golden Ratio Spiral](https://github.com/wesleyZero/GoldenRatio_Mathematica_UCSB-ChE)
 
 
