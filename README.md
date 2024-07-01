@@ -19,14 +19,14 @@ I'm Wesley. I'm a chemical engineer that loves to code.
  - <img src="./icons/Matlab-Light.svg" width="20"> [Capstone I](https://github.com/wesleyZero/ChE_Capstone/blob/newBranch/README.md) 
 
 #### Personal | AI
-- [<img src="./icons/Python-Light.svg" width="20"> TensorFlow Neural Net](https://github.com/wesleyZero/tensorflow_neural_net) (🚧Readme Under Construction👷‍♂️) 
-- <img src="./icons/Python-Light.svg" width="20"> [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net)(🚧Readme Under Construction👷‍♂️) 
+- [<img src="./icons/Python-Light.svg" width="20"> TensorFlow Neural Net](https://github.com/wesleyZero/tensorflow_neural_net) (🚧Readme👷‍♂️) 
+- <img src="./icons/Python-Light.svg" width="20"> [Numpy Neural Net](https://github.com/wesleyZero/numpy_neural_net)(🚧Readme👷‍♂️) 
 
 #### Hackathons
 - <img src="./icons/Python-Light.svg" width="20"> [UC Santa Barbara Hacks IX | Cheat Checker](https://github.com/wesleyZero/ucsb_hacks_ix) 
 
 #### UCSB MRL
-- <img src="./icons/Python-Light.svg" width="20"> [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL) (🚧Readme Under Construction👷‍♂️)
+- <img src="./icons/Python-Light.svg" width="20"> [Radial Expansion Velocity](https://github.com/wesleyZero/Radial_Expansion_Velocity_UCSB-MRL) (🚧Readme👷‍♂️)
 
 #### 42 Silicon Valley Coding School
 - <img src="./icons/C.svg" width="20"> [Fillit](https://github.com/wesleyZero/fillit_42SiliconValley) - A tetris-like project
