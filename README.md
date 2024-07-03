@@ -12,7 +12,7 @@ I'm Wesley. I'm a chemical engineer that loves to code.
 ## Projects
 
 #### iOS Apps 📱
- - [Tutorials I've Done]() (Coming soon!) 
+ - <img src="./icons/Swift.svg" width="20"> [iOS project]() (Starting soon) 
 
 #### Capstone Projects | Chemical Engineering at UC Santa Barbara 
  - <img src="./icons/Matlab-Light.svg" width="20"> [Capstone II](https://github.com/wesleyZero/capstone_II/tree/main) 
