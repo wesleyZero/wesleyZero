@@ -1,13 +1,17 @@
 ## <div align="center"> 👽 Hello 
 I'm Wesley. I'm a chemical engineer that loves to code. 
 
-### About Me  
+### Me  
   
-- 🤓 Full-Time Nerd  
+- 🤓 Fulltime Nerd
+
+- 🏕️ Experienced Backpacker
   
-- 🏃‍♂️ Long Distance Runner  
-  
-- 🏕️ Experienced Backpacker & Outdoor Enthusiast  
+- 🏃‍♂️ Love to run
+
+- 👨‍💻 Love to code
+
+- 🧠 Thinking makes you happy when you're old
   
 ## Projects
 
