@@ -7,6 +7,8 @@ I'm a chemical engineer from northern California that loves to code.
 
 - 🏕️ Experienced Backpacker
 
+- 🦋 Always Curious
+
 ### Anthem
   
 - 🏃‍♂️ Love to run
