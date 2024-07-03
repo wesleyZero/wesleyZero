@@ -1,5 +1,5 @@
 ## <div align="center"> Hεℓℓø WøʀℓԀ
-I'm Wesley. I'm a chemical engineer that loves to code. 
+I'm a chemical engineer from northern California that loves to code. 
 
 ### Me  
   
