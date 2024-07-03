@@ -1,4 +1,4 @@
-## <div align="center"> HHεℓℓø WøʀℓԀ
+## <div align="center"> Hεℓℓø WøʀℓԀ
 I'm Wesley. I'm a chemical engineer that loves to code. 
 
 ### Me  
