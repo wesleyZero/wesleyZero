@@ -1,5 +1,5 @@
 ## <div align="center"> Hεℓℓø WøʀℓԀ
-I'm a chemical engineer from northern California that loves to code. 
+
 
 ### Me  
   
