@@ -1,13 +1,4 @@
-## <div align="center"> Hεℓℓø WøʀℓԀ
-
-
-### Me  
-  
-- 🤓 Fulltime Nerd
-
-- 🏕️ Experienced Backpacker
-
-- 🦋 Always Curious
+## <div align="center"> Hεℓℓø 
 
 ### Anthem
   
