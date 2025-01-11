@@ -11,7 +11,7 @@
 ## Projects
 
 #### iOS Apps 📱
- - <img src="./icons/Swift.svg" width="20"> [iOS project]() (Starting soon) 
+ - <img src="./icons/Swift.svg" width="20"> [Learning iOS](https://github.com/wesleyZero/learning-iOS) (Starting soon) 
 
 #### Capstone Projects | Chemical Engineering at UC Santa Barbara 
  - <img src="./icons/Matlab-Light.svg" width="20"> [Capstone II](https://github.com/wesleyZero/capstone_II/tree/main) 
